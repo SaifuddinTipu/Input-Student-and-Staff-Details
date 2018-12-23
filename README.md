@@ -26,3 +26,12 @@ Features:
   
   
 5) The GUI can be handled by different event classes and event listeners
+
+
+6) Included background music
+
+
+7) Included sound effects for when the user entered invalid data
+
+
+8) Included animation (not a GIF file). Animation implements timer
