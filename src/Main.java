@@ -1,11 +1,6 @@
 //********
-// TMP2634 Multimedia Programming: PROJECT G1-06
-//
-// Authors and Matrix Number: MD SHAHRIAR KARIM, 49547
-//                            JESSICA SULING LUCAS, 47087
-//                            IZAT IZHAM BIN JUMARI, 47028
-//                            NORMAZ AMYLYANA BINTI MAZNI, 48120
-//
+//copyright @ Md. Saifuddin Tipu
+//dept. of Software Engineering, University Malaysia Sarawak
 //********
 
 import java.awt.Color;
