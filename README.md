@@ -16,13 +16,13 @@ Features:
 4) The system is able to read and write from text files
 
 
-   Existing users can be able to login correctly
-  
-  
-   Register new user – write to file
-  
-  
-   Registered user – read from file
+         Existing users can be able to login correctly
+
+
+         Register new user – write to file
+
+
+         Registered user – read from file
   
   
 5) The GUI can be handled by different event classes and event listeners
